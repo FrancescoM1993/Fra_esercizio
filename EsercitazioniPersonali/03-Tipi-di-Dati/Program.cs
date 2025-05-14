@@ -98,3 +98,13 @@ dizionario.Add(40, "Partecipante 4");
 dizionario.Add(5, "Partecipante 5"); 
 // oppure posso inizializzare il dizionario in un unica riga
 Dictionary<int, string> dizionario2 = new Dictionary<int, string>() { { 1, "Partecipante 1" }, { 6, "Partecipante 2" }, { 35, "Partecipante 3" }, { 40, "Partecipante 4" }, { 5, "Partecipante 5" } }; // dichiarazione e inizializzazione di un dizionario di interi e stringhe
+
+// dizionario int bool
+Dictionary<int, bool> dizionario3 = new Dictionary<int, bool>(); // dichiarazione e inizializzazione di un dizionario di interi e booleani
+dizionario3.Add(1, true); // aggiungo la prima coppia chiave/valore al dizionario
+dizionario3.Add(6, false);
+dizionario3.Add(35, true);
+dizionario3.Add(40, false);
+dizionario3.Add(5, true);
+// oppure posso inizializzare il dizionario in un unica riga
+Dictionary<int, bool> dizionario4 = new Dictionary<int, bool>() { { 1, true }, { 6, false }, { 35, true }, { 40, false }, { 5, true } }; // dichiarazione e inizializzazione di un dizionario di interi e booleani
