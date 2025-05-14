@@ -65,3 +65,36 @@ nomi[3] = "Partecipante 4";
 nomi[4] = "Partecipante 5";
 // oppure posso inizializzare l'array in un unica riga
 string[] nomi2 = new string[] { "Partecipante 1", "Partecipante 2", "Partecipante 3", "Partecipante 4", "Partecipante 5" }; // dichiarazione e inizializzazione di un array di stringhe di lunghezza 5
+
+//list
+// una lista è una collezione di oggetti di uno stesso tipo
+// la lista ha la caratteristica di avere una lunghezza variabile 
+List<int> numeri3 = new List<int>(); // dichiarazione e inizializzazione di una lista di interi
+numeri3.Add(1); // aggiungo il primo elemento alla lista
+numeri3.Add(6); 
+numeri3.Add(35); 
+numeri3.Add(40); 
+numeri3.Add(5); 
+// oppure posso inizializzare la lista in un unica riga
+List<int> numeri4 = new List<int>() { 1, 6, 35, 40, 5 }; // dichiarazione e inizializzazione di una lista di interi
+// lista di stringhe
+List<string> nomi3 = new List<string>(); // dichiarazione e inizializzazione di una lista di stringhe
+nomi3.Add("Partecipante 1"); // aggiungo il primo elemento alla lista
+nomi3.Add("Partecipante 2"); 
+nomi3.Add("Partecipante 3"); 
+nomi3.Add("Partecipante 4"); 
+nomi3.Add("Partecipante 5"); 
+// oppure posso inizializzare la lista in un unica riga
+List<string> nomi4 = new List<string>() { "Partecipante 1", "Partecipante 2", "Partecipante 3", "Partecipante 4", "Partecipante 5" }; // dichiarazione e inizializzazione di una lista di stringhe  
+
+// dizionario
+// un dizionario è una collezione di coppie chiave/valore
+// la chiave è univoca e non può essere duplicata
+Dictionary<int, string> dizionario = new Dictionary<int, string>(); // dichiarazione e inizializzazione di un dizionario di interi e stringhe
+dizionario.Add(1, "Partecipante 1"); // aggiungo la prima coppia chiave/valore al dizionario
+dizionario.Add(6, "Partecipante 2"); 
+dizionario.Add(35, "Partecipante 3"); 
+dizionario.Add(40, "Partecipante 4"); 
+dizionario.Add(5, "Partecipante 5"); 
+// oppure posso inizializzare il dizionario in un unica riga
+Dictionary<int, string> dizionario2 = new Dictionary<int, string>() { { 1, "Partecipante 1" }, { 6, "Partecipante 2" }, { 35, "Partecipante 3" }, { 40, "Partecipante 4" }, { 5, "Partecipante 5" } }; // dichiarazione e inizializzazione di un dizionario di interi e stringhe
