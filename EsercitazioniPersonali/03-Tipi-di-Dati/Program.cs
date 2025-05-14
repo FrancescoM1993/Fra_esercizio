@@ -1,4 +1,5 @@
-﻿// tipi di dati
+﻿// TIPI DI DATI
+
 // i tipi di dati possono essere dati semplici o complessi (strutture di dati)
 
 int eta2; // dichiaro una variabile di tipo intero 

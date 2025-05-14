@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\bin\Debug\net8.0\04-Operatori.exe
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\bin\Debug\net8.0\04-Operatori.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\bin\Debug\net8.0\04-Operatori.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\bin\Debug\net8.0\04-Operatori.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\bin\Debug\net8.0\04-Operatori.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\04-Operatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\04-Operatori.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\04-Operatori.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\04-Operatori.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\04-Operatori.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\04-Operatori.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\refint\04-Operatori.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\04-Operatori.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\04-Operatori.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\04-Operatori\obj\Debug\net8.0\ref\04-Operatori.dll

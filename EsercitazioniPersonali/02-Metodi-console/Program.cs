@@ -1,4 +1,6 @@
-﻿// inserisco un commento a linea singola
+﻿//METODI CONSOLE
+
+// inserisco un commento a linea singola
 // questo è un commento a linea singola
 
 /*
