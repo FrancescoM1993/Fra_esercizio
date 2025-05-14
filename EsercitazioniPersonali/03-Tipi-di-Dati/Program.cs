@@ -44,5 +44,24 @@ DateTime datanascita = new DateTime(1990, 1, 1); // dichiarazione e inizializzaz
 Console.WriteLine($"La variabile maggiorenne vale: {maggiorenne}"); // stampo il valore della variabile maggiorenne
 Console.WriteLine($"La variabile nome vale: {nome}"); // stampo il valore della variabile nome
 
+// tipi di dati complessi (strutture di dati)
+// un insieme di dati di dello stesso tipo
+// array -> ha la caratteristica di avere una lunghezza fissa e predeterminata 
+int[] numeri = new int[5]; // dichiarazione e inizializzazione di un array di interi di lunghezza 5
+numeri[0] = 1; // iniziallizazione del primo elemento dell array [0] é l indice dell array e parte da 0
+numeri[1] = 6; 
+numeri[2] = 35;  
+numeri[3] = 40; 
+numeri[4] = 5;
+// oppure posso inizializzare l'array in un unica riga
+int[] numeri2 = new int[] { 1, 6, 35, 40, 5 }; // dichiarazione e inizializzazione di un array di interi di lunghezza 5
 
-
+// array di stringhe 
+string[] nomi = new string[5]; // dichiarazione e inizializzazione di un array di stringhe di lunghezza 5
+nomi[0] = "Partecipante 1"; // inizializzo il primo elemento dell array
+nomi[1] = "Partecipante 2";
+nomi[2] = "Partecipante 3";
+nomi[3] = "Partecipante 4";
+nomi[4] = "Partecipante 5";
+// oppure posso inizializzare l'array in un unica riga
+string[] nomi2 = new string[] { "Partecipante 1", "Partecipante 2", "Partecipante 3", "Partecipante 4", "Partecipante 5" }; // dichiarazione e inizializzazione di un array di stringhe di lunghezza 5

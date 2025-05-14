@@ -12,3 +12,4 @@ C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\
 C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.pdb
 C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.genruntimeconfig.cache
 C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\ref\03-Tipi-di-Dati.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.sourcelink.json
