@@ -1,0 +1,15 @@
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\bin\Debug\net8.0\02-Metodi-console.exe
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\bin\Debug\net8.0\02-Metodi-console.deps.json
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\bin\Debug\net8.0\02-Metodi-console.runtimeconfig.json
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\bin\Debug\net8.0\02-Metodi-console.dll
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\bin\Debug\net8.0\02-Metodi-console.pdb
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\02-Metodi-console.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\02-Metodi-console.AssemblyInfoInputs.cache
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\02-Metodi-console.AssemblyInfo.cs
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\02-Metodi-console.csproj.CoreCompileInputs.cache
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\02-Metodi-console.sourcelink.json
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\02-Metodi-console.dll
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\refint\02-Metodi-console.dll
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\02-Metodi-console.pdb
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\02-Metodi-console.genruntimeconfig.cache
+c:\Users\Allievo\Documents\devops3\Esercitazioni\02-Metodi-console\obj\Debug\net8.0\ref\02-Metodi-console.dll
