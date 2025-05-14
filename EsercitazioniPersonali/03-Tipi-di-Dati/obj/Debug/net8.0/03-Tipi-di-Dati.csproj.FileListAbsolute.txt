@@ -1,0 +1,14 @@
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\bin\Debug\net8.0\03-Tipi-di-Dati.exe
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\bin\Debug\net8.0\03-Tipi-di-Dati.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\bin\Debug\net8.0\03-Tipi-di-Dati.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\bin\Debug\net8.0\03-Tipi-di-Dati.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\bin\Debug\net8.0\03-Tipi-di-Dati.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\refint\03-Tipi-di-Dati.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\03-Tipi-di-Dati.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\03-Tipi-di-Dati\obj\Debug\net8.0\ref\03-Tipi-di-Dati.dll
