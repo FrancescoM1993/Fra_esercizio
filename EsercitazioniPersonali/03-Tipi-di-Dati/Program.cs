@@ -109,3 +109,9 @@ dizionario3.Add(40, false);
 dizionario3.Add(5, true);
 // oppure posso inizializzare il dizionario in un unica riga
 Dictionary<int, bool> dizionario4 = new Dictionary<int, bool>() { { 1, true }, { 6, false }, { 35, true }, { 40, false }, { 5, true } }; // dichiarazione e inizializzazione di un dizionario di interi e booleani
+
+// BEST PRACTICES PER LA DICHIARAZIONE DI VARIABILI
+// dichiarare le variabili con nomi significativi
+// dichiarare le variabili con la notazione CamelCase o PascalCase
+// esempio camel case etaStudente
+// esempio pascal case EtaStudente
