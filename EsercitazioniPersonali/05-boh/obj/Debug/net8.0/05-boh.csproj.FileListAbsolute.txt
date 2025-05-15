@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\05-boh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\05-boh.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\05-boh.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\05-boh.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\05-boh.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\bin\Debug\net8.0\05-boh.exe
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\bin\Debug\net8.0\05-boh.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\bin\Debug\net8.0\05-boh.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\bin\Debug\net8.0\05-boh.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\bin\Debug\net8.0\05-boh.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\05-boh.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\refint\05-boh.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\05-boh.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\05-boh.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\05-boh\obj\Debug\net8.0\ref\05-boh.dll
