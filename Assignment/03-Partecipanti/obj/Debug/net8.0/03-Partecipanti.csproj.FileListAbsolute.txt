@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\03-Partecipanti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\03-Partecipanti.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\03-Partecipanti.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\03-Partecipanti.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\03-Partecipanti.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\bin\Debug\net8.0\03-Partecipanti.exe
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\bin\Debug\net8.0\03-Partecipanti.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\bin\Debug\net8.0\03-Partecipanti.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\bin\Debug\net8.0\03-Partecipanti.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\bin\Debug\net8.0\03-Partecipanti.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\03-Partecipanti.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\refint\03-Partecipanti.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\03-Partecipanti.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\03-Partecipanti.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\03-Partecipanti\obj\Debug\net8.0\ref\03-Partecipanti.dll
