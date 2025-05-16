@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\05-Condizioni\\05-Condizioni.csproj",
-      "projectName": "05-Condizioni",
-      "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\05-Condizioni\\05-Condizioni.csproj",
+      "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj",
+      "projectName": "02-fizbuzz",
+      "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj",
       "packagesPath": "C:\\Users\\devops3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\05-Condizioni\\obj\\",
+      "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\02-fizbuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devops3\\AppData\\Roaming\\NuGet\\NuGet.Config"

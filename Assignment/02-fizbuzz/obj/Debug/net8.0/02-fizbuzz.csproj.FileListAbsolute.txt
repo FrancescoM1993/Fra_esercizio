@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\02-fizbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\02-fizbuzz.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\02-fizbuzz.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\02-fizbuzz.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\02-fizbuzz.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\bin\Debug\net8.0\02-fizbuzz.exe
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\bin\Debug\net8.0\02-fizbuzz.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\bin\Debug\net8.0\02-fizbuzz.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\bin\Debug\net8.0\02-fizbuzz.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\bin\Debug\net8.0\02-fizbuzz.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\02-fizbuzz.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\refint\02-fizbuzz.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\02-fizbuzz.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\02-fizbuzz.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\02-fizbuzz\obj\Debug\net8.0\ref\02-fizbuzz.dll
