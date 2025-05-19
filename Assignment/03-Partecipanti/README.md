@@ -27,3 +27,25 @@
 // Se l'inserimento dell'utente è "fine", esci dal ciclo
 
 // Stampa l'elenco dei partecipanti
+
+### Esempio di codice (completo)
+```csharp
+partecipanti = new List<string>(); // Inizializza una lista di stringhe per memorizzare i nomi
+string nome; // Inizializza una variabile per il nome che l utente inserirà
+while (true) // Inizia un ciclo while
+{
+    Console.WriteLine("Inserisci il nome del partecipante (o scrivi 'fine' per terminare):"); // Chiedi all utente di inserire un nome
+    nome = Console.ReadLine(); // Acquisisci l input dell utente
+    if (nome.ToLower() == "fine") // Se l inserimento dell utente è "fine", esci dal ciclo
+    {
+        break; // Esci dal ciclo
+    }
+    partecipanti.Add(nome); // Aggiungi il nome alla lista
+}
+// Stampa l elenco dei partecipanti
+Console.WriteLine("Elenco dei partecipanti:");
+foreach (string partecipante in partecipanti) // Per ogni partecipante nella lista
+{
+    Console.WriteLine(partecipante); // Stampa il nome del partecipante
+}
+```
