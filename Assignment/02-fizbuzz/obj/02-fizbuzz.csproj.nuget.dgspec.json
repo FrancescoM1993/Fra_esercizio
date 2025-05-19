@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj": {}
+    "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj": {
+    "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj",
+        "projectUniqueName": "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj",
         "projectName": "02-fizbuzz",
-        "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj",
-        "packagesPath": "C:\\Users\\devops3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\02-fizbuzz\\obj\\",
+        "projectPath": "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra\\Fra_esercizio\\Assignment\\02-fizbuzz\\02-fizbuzz.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra\\Fra_esercizio\\Assignment\\02-fizbuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\devops3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.16, 8.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.16, 8.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -58,7 +58,7 @@ Scrivere un programma che simuli una calcolatrice. Il programma deve essere in g
 
 ## Esempio di codice (solo commenti)
 
-//Calcolatrice
+// Calcolatrice
 // chiedo all'utente di inserire il primo numero
 // chiedo all'utente di inserire il secondo numero
 // chiedo all'utente di inserire l'operazione da eseguire

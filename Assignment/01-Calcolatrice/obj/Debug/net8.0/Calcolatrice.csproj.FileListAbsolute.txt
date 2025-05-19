@@ -28,3 +28,18 @@ C:\Users\devops3\Documents\Fra_esercizio\Assignment\01-Calcolatrice\bin\Debug\ne
 C:\Users\devops3\Documents\Fra_esercizio\Assignment\01-Calcolatrice\bin\Debug\net8.0\Calcolatrice.pdb
 C:\Users\devops3\Documents\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\Calcolatrice.genruntimeconfig.cache
 C:\Users\devops3\Documents\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\ref\Calcolatrice.dll
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\bin\Debug\net8.0\Calcolatrice.exe
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\bin\Debug\net8.0\Calcolatrice.deps.json
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\bin\Debug\net8.0\Calcolatrice.runtimeconfig.json
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\bin\Debug\net8.0\Calcolatrice.dll
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\bin\Debug\net8.0\Calcolatrice.pdb
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\Calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\Calcolatrice.AssemblyInfoInputs.cache
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\Calcolatrice.AssemblyInfo.cs
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\Calcolatrice.sourcelink.json
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\Calcolatrice.dll
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\refint\Calcolatrice.dll
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\Calcolatrice.pdb
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\Calcolatrice.genruntimeconfig.cache
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra\Fra_esercizio\Assignment\01-Calcolatrice\obj\Debug\net8.0\ref\Calcolatrice.dll
