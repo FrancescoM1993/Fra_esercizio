@@ -16,6 +16,7 @@
 
 // Inizializza una lista di stringhe per memorizzare i nomi dei partecipanti
 
+
 // Inizializza una variabile per memorizzare il nome dell'utente
 
 // Inizializza un ciclo while per chiedere i nomi dei partecipanti
@@ -63,11 +64,17 @@ In questa versione vengono create due liste che rappresentano due squadre.
 ## Esempio di codice (solo commenti)
 // Inizializza due liste di stringhe per memorizzare i nomi dei partecipanti delle due squadre
 // Inizializza una variabile per memorizzare il nome dell'utente
+
 // Inizializza un ciclo while per chiedere i nomi dei partecipanti
+
 // Chiedi all'utente di inserire un nome
+
 // Chiedi all'utente a quale squadra appartiene il partecipante
+
 // Aggiungi il nome alla lista della squadra corrispondente
+
 // Se l'inserimento dell'utente è "fine", esci dal ciclo
+
 // Stampa l'elenco dei partecipanti di entrambe le squadre
 
 ### Esempio di codice (completo)

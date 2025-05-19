@@ -1,47 +1,50 @@
 ﻿// Inizializza una lista di stringhe per memorizzare i nomi dei partecipanti
 
-string partecipante1 = " ";
+List<string> squadra1 = new List<string>();
+List<string> squadra2 = new List<string>();
 
-// Inizializza una variabile per memorizzare il nome dell'utente
-string nomeUtente = "Mario"; // Nome dell'utente
+string nome;
 
-// Inizializza una lista di stringhe per memorizzare i nomi dei partecipanti
-  var partecipanti = new List<string>() { partecipante1 }; // Dichiarazione e inizializzazione di una lista di stringhe
 
-//ciclo while per chiedere il nome dei partecipanti
+// Ciclo per l'inserimento dei partecipanti
 
-int i = 0;
-while (i < partecipanti.Count)
+while (true)
+
 {
-    Console.WriteLine($"Inserisci il nome del partecipante {i + 1}: ");
-    string nome = Console.ReadLine();
-    partecipanti[i] = nome;
-    i++;
-}
+    Console.WriteLine("Inserisci il nome del partecipante ('fine' per terminare): ");
+    nome = Console.ReadLine();
 
-// Chiedi all'utente di inserire un nome
-Console.WriteLine("Inserisci il nome del partecipante: ");
-
-// Aggiungi il nome alla lista dei partecipanti
-string nomePartecipante = Console.ReadLine();
-partecipanti.Add(nomePartecipante);
-
-// Se l'inserimento dell'utente è "fine", esci dal ciclo
-while (nomePartecipante != "fine")
-{
-    Console.WriteLine("Inserisci il nome del partecipante: ");
-    nomePartecipante = Console.ReadLine();
-    if (nomePartecipante == "fine")
+    if (nome.ToLower() == "fine")
     {
-    break; 
-    }
-    partecipanti.Add(nomePartecipante);
-}
 
-//stampa l'elenco dei partecipanti
-Console.WriteLine("Elenco dei partecipanti:");
-foreach (string partecipante in partecipanti)
-{
-    Console.WriteLine(partecipante);
+        break;
+    }
+
+    Console.WriteLine("Inserisci il numero della squadra (1 o 2): ");
+    string squadra = Console.ReadLine();
+    if (squadra == "1")
+    {
+        squadra1.Add(nome);
+    }
+    else if (squadra == "2")
+    {
+        squadra2.Add(nome);
+    }
+    if (nome.ToLower() == "fine")
+    {
+        break;
+    }
 }
+    Console.WriteLine("Elenco dei partecipanti della squadra 1:");
+    foreach (string partecipante in squadra1)
+    {
+        Console.WriteLine(partecipante);
+    }
+    Console.WriteLine("Elenco dei partecipanti della squadra 2:");
+    foreach (string partecipante in squadra2)
+    {
+        Console.WriteLine(partecipante);
+    }
+
+
 
