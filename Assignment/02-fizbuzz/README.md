@@ -28,3 +28,38 @@ il FizzBuzz è un problema comune di programmazione che viene spesso utilizzato 
 
 // Altrimenti, stampa il numero
 
+### Esempio di codice (completo)
+```csharp
+// Inizializza un ciclo da 1 a 100
+for (int i = 1; i <= 100; i++)
+{
+    // Controlla se i è un multiplo di 3 e 5
+    if (i % 3 == 0 && i % 5 == 0)
+    {
+        Console.WriteLine("FizzBuzz");
+    }
+    // Controlla se i è un multiplo di 3
+    else if (i % 3 == 0)
+    {
+        Console.WriteLine("Fizz");
+    }
+    // Controlla se i è un multiplo di 5
+    else if (i % 5 == 0)
+    {
+        Console.WriteLine("Buzz");
+    }
+    // Se non è un multiplo di nessuno dei due, stampa il numero
+    else
+    {
+        Console.WriteLine(i);
+    }
+}
+```
+
+# FIZZBUZZ (Versione 2)
+Implementaziione della prima versione del programma FizzBuzz:
+- il programma chiede all'utente di inserire il numero ( quindi un numero qualsiasi ) 
+- Il programma scrive se il numero è Fizz,Buzz o FizzBuzz
+## Suggerimenti
+- Utilizza un ciclo `while` per continuare a chiedere all'utente di inserire un numero fino a quando non decide di terminare.
+- Utilizza i metodi di console per acquisire l'input dell'utente.
