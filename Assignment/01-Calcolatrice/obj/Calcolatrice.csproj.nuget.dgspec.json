@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\Calcolatrice\\Calcolatrice.csproj": {}
+    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\01-Calcolatrice\\Calcolatrice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\Calcolatrice\\Calcolatrice.csproj": {
+    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\01-Calcolatrice\\Calcolatrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\Calcolatrice\\Calcolatrice.csproj",
+        "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\01-Calcolatrice\\Calcolatrice.csproj",
         "projectName": "Calcolatrice",
-        "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\Calcolatrice\\Calcolatrice.csproj",
+        "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\01-Calcolatrice\\Calcolatrice.csproj",
         "packagesPath": "C:\\Users\\devops3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\Calcolatrice\\obj\\",
+        "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\01-Calcolatrice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devops3\\AppData\\Roaming\\NuGet\\NuGet.Config"

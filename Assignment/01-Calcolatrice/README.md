@@ -50,3 +50,27 @@ Scrivere un programma che simuli una calcolatrice. Il programma deve essere in g
 // stampo il risultato dell'operazione
 
 
+# CALCOLATRICE (versione 2)
+
+## Suggerimenti
+- Usare un ciclo while per continuare a chiedere all utente di inserire i numeri e l operazione fino a quando non decide di uscire.
+- Usare un istruzione `break` per uscire dal ciclo quando l utente risponde no.
+
+## Esempio di codice (solo commenti)
+
+//Calcolatrice
+// chiedo all'utente di inserire il primo numero
+// chiedo all'utente di inserire il secondo numero
+// chiedo all'utente di inserire l'operazione da eseguire
+// verifico se l'operazione è valida
+// se l operazione scelta dall utente è divisione
+// se il secondo numero è uguale a 0
+// stampo un messaggio di errore
+// altrimenti eseguo l'operazione scelta dall'utente
+// stampo il risultato dell'operazione
+// chiedo all'utente se vuole continuare
+// se l'utente risponde si
+// altrimenti esco dal ciclo
+
+## Esempio di codice 
+```csharp
