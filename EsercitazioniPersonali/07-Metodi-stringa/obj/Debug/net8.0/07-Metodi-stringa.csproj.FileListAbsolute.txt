@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\bin\Debug\net8.0\07-Metodi-stringa.exe
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\bin\Debug\net8.0\07-Metodi-stringa.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\bin\Debug\net8.0\07-Metodi-stringa.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\bin\Debug\net8.0\07-Metodi-stringa.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\bin\Debug\net8.0\07-Metodi-stringa.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\07-Metodi-stringa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\07-Metodi-stringa.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\07-Metodi-stringa.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\07-Metodi-stringa.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\07-Metodi-stringa.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\07-Metodi-stringa.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\refint\07-Metodi-stringa.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\07-Metodi-stringa.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\07-Metodi-stringa.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\07-Metodi-stringa\obj\Debug\net8.0\ref\07-Metodi-stringa.dll

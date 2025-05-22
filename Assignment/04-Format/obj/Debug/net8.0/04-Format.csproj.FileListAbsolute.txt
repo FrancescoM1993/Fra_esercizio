@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\bin\Debug\net8.0\04-Format.exe
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\bin\Debug\net8.0\04-Format.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\bin\Debug\net8.0\04-Format.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\bin\Debug\net8.0\04-Format.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\bin\Debug\net8.0\04-Format.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\04-Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\04-Format.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\04-Format.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\04-Format.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\04-Format.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\04-Format.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\refint\04-Format.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\04-Format.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\04-Format.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\04-Format\obj\Debug\net8.0\ref\04-Format.dll
