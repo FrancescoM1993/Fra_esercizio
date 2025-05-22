@@ -52,6 +52,15 @@ foreach (string n in nomiarray)
     Console.WriteLine(n);
 } // output: Nome1 Nome2 Nome3
 ```
+// join
+// unisce un array di stringhe in una sola stringa usando un delimitatore
+
+```csharp   
+string[] nomiarray = { "Nome1", "Nome2", "Nome3" };
+string nomiUniti = string.Join(", ", nomiarray);
+Console.WriteLine(nomiUniti);  // output: Nome1, Nome2, Nome3
+``` 
+
 // replace
 // sostituisce una parte della stringa con un'altra stringa
 

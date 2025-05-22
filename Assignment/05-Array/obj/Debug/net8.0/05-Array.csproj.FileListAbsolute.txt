@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\05-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\05-Array.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\05-Array.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\05-Array.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\05-Array.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\bin\Debug\net8.0\05-Array.exe
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\bin\Debug\net8.0\05-Array.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\bin\Debug\net8.0\05-Array.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\bin\Debug\net8.0\05-Array.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\bin\Debug\net8.0\05-Array.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\05-Array.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\refint\05-Array.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\05-Array.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\05-Array.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\05-Array\obj\Debug\net8.0\ref\05-Array.dll

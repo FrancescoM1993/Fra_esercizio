@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\bin\Debug\net8.0\08-Metodi-array.exe
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\bin\Debug\net8.0\08-Metodi-array.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\bin\Debug\net8.0\08-Metodi-array.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\bin\Debug\net8.0\08-Metodi-array.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\bin\Debug\net8.0\08-Metodi-array.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\08-Metodi-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\08-Metodi-array.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\08-Metodi-array.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\08-Metodi-array.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\08-Metodi-array.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\08-Metodi-array.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\refint\08-Metodi-array.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\08-Metodi-array.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\08-Metodi-array.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\08-Metodi-array\obj\Debug\net8.0\ref\08-Metodi-array.dll
