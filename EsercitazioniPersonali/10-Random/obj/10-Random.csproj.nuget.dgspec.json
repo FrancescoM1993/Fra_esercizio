@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\05-Array.csproj": {}
+    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\10-Random\\10-Random.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\05-Array.csproj": {
+    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\10-Random\\10-Random.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\05-Array.csproj",
-        "projectName": "05-Array",
-        "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\05-Array.csproj",
+        "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\10-Random\\10-Random.csproj",
+        "projectName": "10-Random",
+        "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\10-Random\\10-Random.csproj",
         "packagesPath": "C:\\Users\\devops3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\obj\\",
+        "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\10-Random\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devops3\\AppData\\Roaming\\NuGet\\NuGet.Config"

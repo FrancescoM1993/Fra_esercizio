@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\05-Array.csproj": {}
+    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\09-Metodi-liste\\09-Metodi-liste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\05-Array.csproj": {
+    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\09-Metodi-liste\\09-Metodi-liste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\05-Array.csproj",
-        "projectName": "05-Array",
-        "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\05-Array.csproj",
+        "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\09-Metodi-liste\\09-Metodi-liste.csproj",
+        "projectName": "09-Metodi-liste",
+        "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\09-Metodi-liste\\09-Metodi-liste.csproj",
         "packagesPath": "C:\\Users\\devops3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\05-Array\\obj\\",
+        "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\EsercitazioniPersonali\\09-Metodi-liste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devops3\\AppData\\Roaming\\NuGet\\NuGet.Config"

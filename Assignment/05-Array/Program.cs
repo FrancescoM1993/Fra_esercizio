@@ -124,5 +124,3 @@ if (!trovato)
 {
     Console.WriteLine("Numero non trovato nell'array.");
 }
-
-
