@@ -95,16 +95,34 @@ else
 }
 */
 
-int[] eta = { 26, 12, 3, 33, 8 };
-Array.Sort(eta);
-Array.Reverse(eta);
+Console.Write("Inserisci il numero di elementi per l'array: ");
+int numeroElementi = int.Parse(Console.ReadLine());
+int[] numeri = new int[numeroElementi];
 
-for ; (int i = 0; i < eta.; i++)
+for (int i = 0; i < numeroElementi; i++)
 {
-    
-    Console.WriteLine($"Inserisci il numero {i + 1}: ");
-    eta[i] = int.Parse(Console.ReadLine());
+    Console.Write($"Inserisci il numero {i + 1}: ");
+    numeri[i] = int.Parse(Console.ReadLine());
 }
 
-Array.Copy(eta, eta2, eta.Length); 
+Console.Write("Inserisci il numero da cercare nell'array: ");
+int numeroDaCercare = int.Parse(Console.ReadLine());
+
+bool trovato = false;
+
+foreach (int numero in numeri)
+{
+    if (numero == numeroDaCercare)
+    {
+        Console.WriteLine($"Trovato in posizione {Array.IndexOf(numeri, numero)}");
+        trovato = true;
+        break;
+    }
+}
+
+if (!trovato)
+{
+    Console.WriteLine("Numero non trovato nell'array.");
+}
+
 
