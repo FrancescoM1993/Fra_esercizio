@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\bin\Debug\net8.0\06-Catalogo.exe
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\bin\Debug\net8.0\06-Catalogo.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\bin\Debug\net8.0\06-Catalogo.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\bin\Debug\net8.0\06-Catalogo.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\bin\Debug\net8.0\06-Catalogo.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\06-Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\06-Catalogo.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\06-Catalogo.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\06-Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\06-Catalogo.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\06-Catalogo.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\refint\06-Catalogo.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\06-Catalogo.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\06-Catalogo.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\06-Catalogo\obj\Debug\net8.0\ref\06-Catalogo.dll
