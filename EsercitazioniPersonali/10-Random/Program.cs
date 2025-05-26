@@ -28,9 +28,12 @@ foreach (int numero in numeriPari)
 */
 Random numeroRandom = new Random();
 Console.WriteLine("Tira il primo dado");
-int dado1 = numeroRandom.Next(1, 10);
+int dado1 = numeroRandom.Next(1, 7);
 Console.WriteLine("Tira il secondo dado");
-int dado2 = numeroRandom.Next(1, 10);
-int prodotto = dado1 + dado2;
+int dado2 = numeroRandom.Next(1, 7);
+Console.WriteLine($"Il primo dado ha fatto {dado1}");
+Console.WriteLine($"Il secondo dado ha fatto {dado2}");
+Console.WriteLine($"Il totale dei due dadi è {dado1 + dado2}");
 
-for ()
+
+
