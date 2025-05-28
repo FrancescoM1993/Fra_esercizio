@@ -1,0 +1,5 @@
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.sourcelink.json
