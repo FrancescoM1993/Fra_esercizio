@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\13-Funzioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\13-Funzioni.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\13-Funzioni.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\13-Funzioni.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\13-Funzioni.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\bin\Debug\net8.0\13-Funzioni.exe
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\bin\Debug\net8.0\13-Funzioni.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\bin\Debug\net8.0\13-Funzioni.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\bin\Debug\net8.0\13-Funzioni.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\bin\Debug\net8.0\13-Funzioni.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\13-Funzioni.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\refint\13-Funzioni.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\13-Funzioni.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\13-Funzioni.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\13-Funzioni\obj\Debug\net8.0\ref\13-Funzioni.dll

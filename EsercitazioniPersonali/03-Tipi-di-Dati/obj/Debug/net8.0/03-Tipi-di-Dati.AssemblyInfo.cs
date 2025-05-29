@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03-Tipi-di-Dati")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b7d23776cd9436c89121f23956fec5931444ca7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d38eeb3ea114eea95c4a9a1238c493dbb205fbc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("03-Tipi-di-Dati")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03-Tipi-di-Dati")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

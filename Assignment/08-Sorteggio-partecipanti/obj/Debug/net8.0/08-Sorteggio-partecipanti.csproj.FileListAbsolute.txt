@@ -3,3 +3,13 @@ C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\ob
 C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.AssemblyInfo.cs
 C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.csproj.CoreCompileInputs.cache
 C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\bin\Debug\net8.0\08-Sorteggio-partecipanti.exe
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\bin\Debug\net8.0\08-Sorteggio-partecipanti.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\bin\Debug\net8.0\08-Sorteggio-partecipanti.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\bin\Debug\net8.0\08-Sorteggio-partecipanti.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\bin\Debug\net8.0\08-Sorteggio-partecipanti.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\refint\08-Sorteggio-partecipanti.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\08-Sorteggio-partecipanti.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\08-Sorteggio-partecipanti\obj\Debug\net8.0\ref\08-Sorteggio-partecipanti.dll

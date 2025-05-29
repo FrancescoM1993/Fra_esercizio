@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("08-Sorteggio-partecipanti")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("13-Funzioni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d38eeb3ea114eea95c4a9a1238c493dbb205fbc4")]
-[assembly: System.Reflection.AssemblyProductAttribute("08-Sorteggio-partecipanti")]
-[assembly: System.Reflection.AssemblyTitleAttribute("08-Sorteggio-partecipanti")]
+[assembly: System.Reflection.AssemblyProductAttribute("13-Funzioni")]
+[assembly: System.Reflection.AssemblyTitleAttribute("13-Funzioni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
