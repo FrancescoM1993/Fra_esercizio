@@ -94,7 +94,7 @@ else
 // Folders
 
 // creare una directory
-string dir 0 @"test";
+string dir  @"test";
 Directory.CreateDirectory(dir);
 
 // verificare se una directory esiste
@@ -121,5 +121,9 @@ DirectoryInfo dirInfo = new DirectoryInfo(dir);
 Console.WriteLine(dirInfo.CreationTime);
 Console.WriteLine(dirInfo.LastWriteTime);
 Console.WriteLine(dirInfo.Name);
+
+// Elencare i file in una directory
+string[] files = Directory.GetFiles(dir);
+foreach (string file in)
 
 ```

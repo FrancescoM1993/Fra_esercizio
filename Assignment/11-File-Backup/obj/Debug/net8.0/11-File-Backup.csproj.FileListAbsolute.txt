@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\11-File-Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\11-File-Backup.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\11-File-Backup.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\11-File-Backup.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\11-File-Backup.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\bin\Debug\net8.0\11-File-Backup.exe
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\bin\Debug\net8.0\11-File-Backup.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\bin\Debug\net8.0\11-File-Backup.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\bin\Debug\net8.0\11-File-Backup.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\bin\Debug\net8.0\11-File-Backup.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\11-File-Backup.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\refint\11-File-Backup.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\11-File-Backup.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\11-File-Backup.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\11-File-Backup\obj\Debug\net8.0\ref\11-File-Backup.dll
