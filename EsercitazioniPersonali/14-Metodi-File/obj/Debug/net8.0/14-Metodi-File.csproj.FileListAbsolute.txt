@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\bin\Debug\net8.0\14-Metodi-File.exe
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\bin\Debug\net8.0\14-Metodi-File.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\bin\Debug\net8.0\14-Metodi-File.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\bin\Debug\net8.0\14-Metodi-File.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\bin\Debug\net8.0\14-Metodi-File.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\14-Metodi-File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\14-Metodi-File.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\14-Metodi-File.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\14-Metodi-File.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\14-Metodi-File.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\14-Metodi-File.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\refint\14-Metodi-File.dll
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\14-Metodi-File.pdb
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\14-Metodi-File.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\EsercitazioniPersonali\14-Metodi-File\obj\Debug\net8.0\ref\14-Metodi-File.dll
