@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11-File-Backup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3b89d7500094f1987d2dd87528ce0cb1fa49b79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa5121102cea097258ba3873ae8a3b811a1d7270")]
 [assembly: System.Reflection.AssemblyProductAttribute("11-File-Backup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11-File-Backup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

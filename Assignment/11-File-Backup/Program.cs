@@ -1,30 +1,53 @@
-﻿string file1 = @"test.txt";
-File.Create(file1).Close();
-string file2 = @"test.txt";
-File.Create(file2).Close();
-string file3 = @"test.txt";
-File.Create(file3).Close();
-string file4 = @"test.txt";
-File.Create(file4).Close();
+﻿string cartellaSorgente = @"Progetti";
+string timestamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
+string cartellaDestinazione = @$"{cartellaSorgente}_{timestamp}";
 
-string progetto1 = @"test.txt";
-Directory.CreateDirectory(progetto1);
-string progetto2 = @"test.txt";
-Directory.CreateDirectory(progetto2);
-
-
-//string progetto = Path.Combine(Progetti, "Progetto1", "Progetto2","file1.txt", "file2.txt", "file3.txt", "file4.txt");
-string progetto = Path.Combine(Fra_esercizio\Assignment\11-File-Backup\Progetti);
-string destinazioneProgetto = DateTime.Now.ToString("yyyyMMdd_HHmmss");
-if (Directory.Exists(progetto))
+/*
+void Copia(string sorgente, string destinazione)
 {
-    Directory.Copy(progetto, destinazioneProgetto, true); 
-}
-else
-{
-    Console.WriteLine("Il file di origine non esiste.");
-}
+    Directory.CreateDirectory(destinazione);
 
+    // cercare i files nella cartella sorgente
+    string[] files = Directory.GetFiles(sorgente);
+    // ciclo in modo da copiare i files nella cartella di destinazione
+    for (int i = 0; i < files.Length; i++)
+    {
+        // ottengo le informazioni sul file corrente
+        FileInfo fileInfo = new FileInfo(files[i]);
+        string nuovoPercorso = $"{destinazione}/{fileInfo.Name}";
+        File.Copy(files[i], nuovoPercorso, true);
+    }
+
+    // cercare le cartelle nella cartella sorgente
+    string[] cartelle = Directory.GetDirectories(sorgente);
+    for (int i = 0; i < cartelle.Length; i++)
+    {
+        DirectoryInfo info = new DirectoryInfo(cartelle[i]);
+        string nuovaCartella = $"{destinazione}/{info.Name}";
+        Copia(cartelle[i], nuovaCartella);
+    }
+}
+Copia(cartellaSorgente, cartellaDestinazione);
+Console.WriteLine($"Backup completati in: {cartellaDestinazione}");
+*/
+void Copia(string sorgente, string destinazione)
+{
+    Directory.CreateDirectory(destinazione);
+    foreach (string file in Directory.GetFiles(sorgente))
+    {
+        string nomeFile = Path.GetFileName(file);
+        File.Copy(file, Path.Combine(destinazione, nomeFile), true);
+    }
+
+    foreach (string sottoDir in Directory.GetDirectories(sorgente))
+    {
+        string nomeSottoDir = Path.GetFileName(sottoDir);
+        string nuovaDest = Path.Combine(destinazione, nomeSottoDir);
+        Copia(sottoDir, nuovaDest);
+    }
+}
+Copia(cartellaSorgente, cartellaDestinazione);
+Console.WriteLine($"Backup completati in: {cartellaDestinazione}");
 
 
 
