@@ -1,0 +1,15 @@
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\bin\Debug\net8.0\12-Elenco-partecipanti.exe
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\bin\Debug\net8.0\12-Elenco-partecipanti.deps.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\bin\Debug\net8.0\12-Elenco-partecipanti.runtimeconfig.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\bin\Debug\net8.0\12-Elenco-partecipanti.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\bin\Debug\net8.0\12-Elenco-partecipanti.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\12-Elenco-partecipanti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\12-Elenco-partecipanti.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\12-Elenco-partecipanti.AssemblyInfo.cs
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\12-Elenco-partecipanti.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\12-Elenco-partecipanti.sourcelink.json
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\12-Elenco-partecipanti.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\refint\12-Elenco-partecipanti.dll
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\12-Elenco-partecipanti.pdb
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\12-Elenco-partecipanti.genruntimeconfig.cache
+C:\Users\devops3\Documents\Fra_esercizio\Assignment\12-Elenco-partecipanti\obj\Debug\net8.0\ref\12-Elenco-partecipanti.dll
