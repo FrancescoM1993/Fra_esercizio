@@ -1,0 +1,35 @@
+/* Impostazioni di base */
+
+body {
+font-family: 'Roboto', sans-serif;
+margin: 20px; /* il margine è lo spazio esterno */
+padding: 0px; /* il padding è lo spazio interno */
+line-height: 1.6; /* altezza della linea */
+background-color: #dad6d6;
+color:#3f3d3d;
+}
+
+/* NAVBAR */
+nav{
+background-color: #ece8e8;
+padding: 10px;
+text-align: center; /* altri valori: left, right, justify */
+}
+
+nav a {
+text-decoration: none;
+margin: 0 30px;
+padding: 10px;
+font-weight: bold;
+color: #3f3d3d;
+}
+
+/* SEZIONI */
+section{
+
+}
+
+/* TITOLI*/
+h1,h2,h3,h4 {
+
+}
