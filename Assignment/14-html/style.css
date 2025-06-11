@@ -29,7 +29,7 @@ color: #0066cc;
 
 /* SEZIONI */
 section {
-padding: 4,5vw 3vw;
+padding: 4vw 3vw;
 background-color: #e49d10;
 border-bottom: 1px solid #999999; /* altri valori: dotted, dashed, double, groove, inset, outset */
 }
@@ -132,6 +132,10 @@ img{
 #box4{
     background-color: orange;
 }
+
+btn-custom{
+    background-color: #e6e316; 
+}
 /* Stili tabella */
 table{
     width: 100%;
@@ -148,8 +152,7 @@ th, td {
 }
 
 div{
-    padding: 20px;
-    margin: 20px;
+    
     border: 1px solid #ccc;
 }
 /* Monitor */
