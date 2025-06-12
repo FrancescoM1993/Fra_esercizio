@@ -1,26 +1,42 @@
-body {
-    font-family: 'Roboto', sans-serif;
-    margin: 200px; /* il margine è lo spazio esterno */
-    padding: 0; /* il padding è lo spazio interno */
-    line-height: 1.6; /* altezza della linea */
-    background-color: #e6e316;
-    color: #333333;
-}
-
-footer {
+.row {
     background-color: #222;
-    color: rgb(224, 13, 13);
+    padding: 25px;
+    Font-size: 10vw;
+    margin: auto;
     text-align: center;
-    padding: 1vw;
-    font-size: 1em;
 }
 
 .container{
     font-family: 'Roboto', sans-serif;
-    margin: 200px; /* il margine è lo spazio esterno */
-    padding: 0; /* il padding è lo spazio interno */
-    line-height: 1.6; /* altezza della linea */
-    background-color: #e6e316;
+    margin: 100px; 
+    padding: 20px; 
+    line-height: 1.6; 
+    background-color: #e4e4df;
     color: #333333;
 
+}
+
+main{
+    max-width: 300px;
+    margin: auto;
+}
+
+h1{
+    font-family: 'Bungee Spice', sans-serif;
+    margin-top: 0;
+    color: #0066cc;
+    Font-size: 5vw; 
+}
+
+h2{
+    margin: auto;
+    font-family: 'Bungee Spice', sans-serif;
+    margin-top: 0;
+    color: #0066cc;
+    Font-size: 5vw;
+    text-align: center; 
+}
+
+h3{
+    
 }
