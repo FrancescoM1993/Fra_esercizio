@@ -1,22 +1,56 @@
 body {
     background-color: #ee0808;
     font-family: 'Roboto', sans-serif;
-}
-.header-content{
-    background-color: rgb(161, 29, 29);
+    width: 100%;
+    max-width: 100%;
 }
 
-footer {
-    background-color: rgb(183, 20, 20);
-    color: rgb(250, 246, 246);
-    padding: 20px 0;
+Header{
+    
 }
+
+.red{
+    background-color: rgb(160, 33, 33);
+}
+
+.button{
+    background-color: rgb(133, 7, 7);
+}
+
+.codeIcon{
+    border: 5px solid white;
+    border-radius: 50%;
+    font-size: 1em;
+    padding: 3px;
+}
+
+main{
+    width: 100%;
+    max-width: 100%;
+}
+
+.fps{
+    background-color:aliceblue;
+    padding:40px;
+    
+}
+
+/*div{
+    border: 1px solid black;
+}*/
+
+footer {
+    background-color:  rgb(160, 33, 33);
+    color: rgb(250, 246, 246);
+    padding: 20px;
+}
+
 
 .nav-link p,
 .header-content h1,
 .header-content h5 {
     color: rgb(250, 246, 246);
-    margin: 0;
+   text-align: start;
 }
 .column-content p,
 .column-content h5 {
@@ -33,23 +67,8 @@ footer {
     opacity: 0.3;
 }
 
-.header-content {
-    text-align: center;
-    padding: 30px 0;
-}
-
-.container-two {
-    padding: 40px 15px;
-    background-color: rgb(160, 33, 33);
-}
-
-.column-content {
-    margin-bottom: 20px;
-}
-
-h1,
 h4,
-h5,
-h6 {
+h5
+{
     color: rgb(240, 236, 236);
 }
