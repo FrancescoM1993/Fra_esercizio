@@ -1,0 +1,11 @@
+{
+    "nome": "Partecipante 1",
+    "eta": 30,
+    "presente": true,
+    "interessi": ["programmazione", "musica", "sport"],
+    "indirizzo": {
+        "via": "Via Esempio 123",
+        "città": "Città Esempio",
+        "cap": "12345"
+    }
+}
