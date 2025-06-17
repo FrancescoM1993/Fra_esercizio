@@ -71,6 +71,33 @@ File.WriteAllText(outputPath, jsonOutput);
 Console.WriteLine("JSON serializzato:");
 Console.WriteLine(jsonOutput); // stampo il json serializzato
 
+// modifica del valore di un campo di una classe
+// modifico il campo nome del partecipante
+partecipante.nome = "Giovanni Bianchi";
+// serializzo di nuovo l'oggetto partecipante modificato
+string jsonModificato = JsonConvert.SerializeObject(partecipante, Formatting.Indented);
+// scrivo il json modificato in un file
+File.WriteAllText(path, jsonModificato);
+Console.WriteLine("JSON modificato");
+// stampo il json modificato
+Console.WriteLine(jsonModificato);
+
+// ESEMPIO DI CANCELLAZIONE DI UN FILE JSON
+// cancello il file json
+
+/*
+if (File.Exists(path))
+{
+    File.Delete(path); // cancello il file json
+    Console.WriteLine($"File {path} cancellato.");
+}
+else
+{
+    Console.WriteLine($"Il file {path} non esiste.");
+}
+*/
+
+
 // creare la classe Partecipante
 public class Partecipante
 {
