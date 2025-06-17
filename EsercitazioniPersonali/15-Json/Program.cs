@@ -1,5 +1,8 @@
 ﻿using Newtonsoft.Json; // importazione della libreria Newtonsoft.Json
 
+
+// ESEMPIO DI DESERIALIZZAZIONE (lettura)
+
 // in questo caso il file è nella stessa cartella del programma
 // percorso del file json
 string path = @"Persona.json";
@@ -43,6 +46,31 @@ Console.WriteLine($"Interessi: {string.Join(", ", partecipante.interessi)}"); //
 // deserializzo in modo specifico in questo caso indirizzo che è formato da piu campi.
 Console.WriteLine($"Indirizzo: {partecipante.indirizzo.via}, {partecipante.indirizzo.citta}, {partecipante.indirizzo.cap}");
 
+// ESEMPIO DI SERIALIZZAZIONE (Scrittura)
+
+Partecipante nuovoPartecipante = new Partecipante
+{
+    nome = "Mario Rossi",
+    eta = 30,
+    presente = true,
+    interessi = new List<string> { "Calcio", "Programmazione", "Musica" },
+    indirizzo = new Indirizzo
+    {
+        via = "Via Roma",
+        citta = "Milano",
+        cap = "20100"
+    }
+};
+
+// SERIALIZZAZIONE
+string jsonOutput = JsonConvert.SerializeObject(nuovoPartecipante, Formatting.Indented);
+string outputPath = @"output.json"; // percorso del file di output
+// scrivo il json in un file    
+File.WriteAllText(outputPath, jsonOutput);
+// stampo a console il json
+Console.WriteLine("JSON serializzato:");
+Console.WriteLine(jsonOutput); // stampo il json serializzato
+
 // creare la classe Partecipante
 public class Partecipante
 {
@@ -59,3 +87,5 @@ public class Indirizzo
     public string citta { get; set; } // proprietà città
     public string cap { get; set; } // proprietà cap
 }
+
+
