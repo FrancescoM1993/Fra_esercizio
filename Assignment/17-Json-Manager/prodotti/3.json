@@ -1,0 +1,14 @@
+{
+  "Codice": "3",
+  "Nome": "fnjs",
+  "Disponibile": false,
+  "Quantita": 0,
+  "Categorie": [
+    "sfgag",
+    "sdag"
+  ],
+  "Posizione": {
+    "Magazzino": "2",
+    "Scaffale": 1
+  }
+}

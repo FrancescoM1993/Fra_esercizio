@@ -25,9 +25,9 @@ Il programma deve permettere di gestire una serie di files json dentro ad una fo
 
 ### Esempio di file json:
 ```json
-prodotti/12345.json
+prodotti/1.json
 {
-    "codice": "12345",
+    "codice": "1",
     "nome": "Prodotto Esempio",
     "disponibile": true,
     "quantita": 100,

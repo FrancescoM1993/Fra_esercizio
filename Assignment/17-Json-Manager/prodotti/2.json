@@ -1,0 +1,14 @@
+{
+  "Codice": "2",
+  "Nome": "2",
+  "Disponibile": true,
+  "Quantita": 1,
+  "Categorie": [
+    "csaonc",
+    "sjacnsa"
+  ],
+  "Posizione": {
+    "Magazzino": "2",
+    "Scaffale": 10
+  }
+}

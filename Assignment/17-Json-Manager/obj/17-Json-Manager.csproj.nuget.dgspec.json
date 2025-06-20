@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra_esercizio\\Assignment\\17-Json-Manager\\17-Json-Manager.csproj": {}
+    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\17-Json-Manager\\17-Json-Manager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra_esercizio\\Assignment\\17-Json-Manager\\17-Json-Manager.csproj": {
+    "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\17-Json-Manager\\17-Json-Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra_esercizio\\Assignment\\17-Json-Manager\\17-Json-Manager.csproj",
+        "projectUniqueName": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\17-Json-Manager\\17-Json-Manager.csproj",
         "projectName": "17-Json-Manager",
-        "projectPath": "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra_esercizio\\Assignment\\17-Json-Manager\\17-Json-Manager.csproj",
-        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente\\OneDrive\\Desktop\\Cartella corso\\Fra_esercizio\\Assignment\\17-Json-Manager\\obj\\",
+        "projectPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\17-Json-Manager\\17-Json-Manager.csproj",
+        "packagesPath": "C:\\Users\\devops3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devops3\\Documents\\Fra_esercizio\\Assignment\\17-Json-Manager\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\devops3\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -71,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
