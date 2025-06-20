@@ -16,3 +16,21 @@ C:\Users\devops3\Documents\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\ne
 C:\Users\devops3\Documents\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.pdb
 C:\Users\devops3\Documents\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.genruntimeconfig.cache
 C:\Users\devops3\Documents\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\ref\17-Json-Manager.dll
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\bin\Debug\net8.0\17-Json-Manager.exe
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\bin\Debug\net8.0\17-Json-Manager.deps.json
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\bin\Debug\net8.0\17-Json-Manager.runtimeconfig.json
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\bin\Debug\net8.0\17-Json-Manager.dll
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\bin\Debug\net8.0\17-Json-Manager.pdb
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.csproj.AssemblyReference.cache
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.AssemblyInfoInputs.cache
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.AssemblyInfo.cs
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.csproj.CoreCompileInputs.cache
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.sourcelink.json
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-.619E7FCB.Up2Date
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.dll
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\refint\17-Json-Manager.dll
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.pdb
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\17-Json-Manager.genruntimeconfig.cache
+C:\Users\Utente\OneDrive\Desktop\Cartella corso\Fra_esercizio\Assignment\17-Json-Manager\obj\Debug\net8.0\ref\17-Json-Manager.dll

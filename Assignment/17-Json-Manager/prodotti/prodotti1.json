@@ -1,11 +1,11 @@
 {
-    "codice": "12345",
-    "nome": "Prodotto 1",
-    "disponibile": true,
-    "quantita": 100,
-    "categorie": ["Elettronica", "Computer"],
-    "posizione": {
-        "magazzino": "Magazzino_1",
-        "scaffale": 20
+    "Codice": "12345",
+    "Nome": "Prodotto 1",
+    "Disponibile": true,
+    "Quantita": 100,
+    "Categorie": ["Elettronica", "Computer"],
+    "Posizione": {
+        "Magazzino": "Magazzino_1",
+        "Scaffale": 20
     }
 }
