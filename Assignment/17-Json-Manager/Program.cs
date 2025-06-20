@@ -7,7 +7,12 @@ int Scelta()
 {
     while (true)
     {
-        int SceltaUtente = int.Parse(Console.ReadLine());
+        string? input = Console.ReadLine();
+        if (input == null)
+        {
+            continue;
+        }
+        int SceltaUtente = int.Parse(input);
         if (SceltaUtente < 1 || SceltaUtente > 7)
         {
             continue;
