@@ -86,9 +86,15 @@ void ModificaFile()
 
 void EliminaFile()
 {
-    if (File.Exists(path))
+    string fileToDel = Console.ReadLine();
+    
+    if (string.IsNullOrEmpty(fileToDel))
+        return; 
+
+    if (File.Exists(fileToDel))
     {
-        File.Delete(path);
+        Console.WriteLine("Il file esiste, procedo con l'eliminazione...");
+        File.Delete(fileToDel);
         Console.WriteLine("File eliminato con successo.");
     }
 }
